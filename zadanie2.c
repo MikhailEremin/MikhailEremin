@@ -46,6 +46,6 @@ putc(a[tmp], graphfile);
 }
     fputs(" }", graphfile);
     fclose(graphfile);
-    system("C:\\Users\\Alex\\Desktop\\release\\bin\\graphfile.dot Graphviz2.38 ");
+    system("C:\\Users\\Alex\\Desktop\\release\\bin\\graphfile.dot gvedit.exe");
 
 }
